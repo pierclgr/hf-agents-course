@@ -97,6 +97,7 @@ Send2Trash
 setuptools
 six
 smolagents
+smolagents[telemetry]
 sniffio
 soupsieve
 stack-data
@@ -115,3 +116,7 @@ webcolors
 webencodings
 websocket-client
 widgetsnbextension
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+openinference-instrumentation-smolagents
+langfuse
