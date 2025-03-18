@@ -122,3 +122,4 @@ openinference-instrumentation-smolagents
 langfuse
 langchain
 langchain-community
+rank_bm25
