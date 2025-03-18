@@ -128,3 +128,6 @@ plotly
 geopandas
 shapely
 kaleido
+smolagents[all]
+helium
+selenium
