@@ -123,3 +123,8 @@ langfuse
 langchain
 langchain-community
 rank_bm25
+smolagents[litellm]
+plotly
+geopandas
+shapely
+kaleido
