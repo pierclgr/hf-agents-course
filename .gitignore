@@ -1,4 +1,5 @@
 venv/
 .DS_store
 .idea/
-
+data/
+alfred_chroma_db/

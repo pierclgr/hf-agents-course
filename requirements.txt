@@ -131,3 +131,14 @@ kaleido
 smolagents[all]
 helium
 selenium
+llama-index
+llama-index-llms-huggingface-api
+llama-index-embeddings-huggingface
+llama-index-embeddings-ollama
+llama-index-callbacks-arize-phoenix
+llama-index-llms-ollama
+llama-index-vector-stores-chroma
+arize-phoenix
+ollama
+chromadb
+datasets
