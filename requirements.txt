@@ -142,3 +142,4 @@ arize-phoenix
 ollama
 chromadb
 datasets
+llama-index-tools-google
