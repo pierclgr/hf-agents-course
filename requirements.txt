@@ -144,3 +144,6 @@ chromadb
 datasets
 llama-index-tools-google
 llama-index-utils-workflow
+langgraph
+langchain_openai
+langchain_core
