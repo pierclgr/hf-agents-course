@@ -3,3 +3,7 @@ venv/
 .idea/
 data/
 alfred_chroma_db/
+lib/
+*.html
+*.pyc
+__pycache__/
